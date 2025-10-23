@@ -1,0 +1,15 @@
+C:\Users\samuel.aglopes\Desktop\dotnet\aulas\bin\Debug\net9.0\aulas.exe
+C:\Users\samuel.aglopes\Desktop\dotnet\aulas\bin\Debug\net9.0\aulas.deps.json
+C:\Users\samuel.aglopes\Desktop\dotnet\aulas\bin\Debug\net9.0\aulas.runtimeconfig.json
+C:\Users\samuel.aglopes\Desktop\dotnet\aulas\bin\Debug\net9.0\aulas.dll
+C:\Users\samuel.aglopes\Desktop\dotnet\aulas\bin\Debug\net9.0\aulas.pdb
+C:\Users\samuel.aglopes\Desktop\dotnet\aulas\obj\Debug\net9.0\aulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samuel.aglopes\Desktop\dotnet\aulas\obj\Debug\net9.0\aulas.AssemblyInfoInputs.cache
+C:\Users\samuel.aglopes\Desktop\dotnet\aulas\obj\Debug\net9.0\aulas.AssemblyInfo.cs
+C:\Users\samuel.aglopes\Desktop\dotnet\aulas\obj\Debug\net9.0\aulas.csproj.CoreCompileInputs.cache
+C:\Users\samuel.aglopes\Desktop\dotnet\aulas\obj\Debug\net9.0\aulas.sourcelink.json
+C:\Users\samuel.aglopes\Desktop\dotnet\aulas\obj\Debug\net9.0\aulas.dll
+C:\Users\samuel.aglopes\Desktop\dotnet\aulas\obj\Debug\net9.0\refint\aulas.dll
+C:\Users\samuel.aglopes\Desktop\dotnet\aulas\obj\Debug\net9.0\aulas.pdb
+C:\Users\samuel.aglopes\Desktop\dotnet\aulas\obj\Debug\net9.0\aulas.genruntimeconfig.cache
+C:\Users\samuel.aglopes\Desktop\dotnet\aulas\obj\Debug\net9.0\ref\aulas.dll
